@@ -3,32 +3,7 @@
 
 ?>
 
-<html lang="fr">
-    
-    <!---First page of the Admin system--->
 
-<head>
-    
-    <title>Code School</title>
-
-    <meta charset="utf-8" />
-
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-    <link href="../css/adminstyle.css" rel="stylesheet" />
-    
-     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-
-</head>
-
-<body>
-    
-  
-    
-<div id="containeradmin">
-    
-   <div class="login">
-    
 <h2> Page Login</h2>
     
     <br>
