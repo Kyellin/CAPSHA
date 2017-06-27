@@ -5,7 +5,7 @@ You need:
 
 A database with thr following tables:
 
-capsha
+capsha,
 login
 
 In the capsha table you only need id(int and primary) and capsha(text)
