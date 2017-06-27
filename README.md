@@ -1,5 +1,5 @@
 # CAPSHA
-making a CAPSHA
+Making a CAPSHA
 
 You need:
 
