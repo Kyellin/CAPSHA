@@ -12,7 +12,7 @@ $_SESSION['nombre'] = rand($nb_min,$nb_max);
 
 try {
     $bdd = new PDO('mysql:host=localhost;
-    dbname=queez632_webecolequebec;charset=utf8', 'queez632_kyellin', 'Rodney1992');
+    dbname=databasename;charset=utf8', 'username', 'password');
 }
 catch (Exception $e) {
     die('Erreur : ' . $e->getMessage());
