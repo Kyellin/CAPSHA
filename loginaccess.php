@@ -9,20 +9,6 @@ echo'
     
     <!---First page of the Admin system--->
 
-<head>
-    
-    <title>Code School</title>
-
-    <meta charset="utf-8" />
-
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-    <link href="css/adminstyle.css" rel="stylesheet" />
-    
-     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-
-</head>
-
 <body>
     
   
@@ -56,7 +42,7 @@ if (empty($capshaconfirm)) {
 
 
     try {
-    $bdd = new PDO('mysql:host=localhost;dbname=queez632_webecolequebec;charset=utf8', 'queez632_kyellin', 'Rodney1992');
+    $bdd = new PDO('mysql:host=localhost;dbname=databasename;charset=utf8', 'username', 'password');
 }
 catch (Exception $e) {
     // En cas d'erreur, on affiche un message et on arrête tout
