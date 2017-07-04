@@ -3,7 +3,7 @@ Making a CAPSHA
 
 You need:
 
-A database with thr following tables:
+A database with the following tables:
 
 capsha,
 login
